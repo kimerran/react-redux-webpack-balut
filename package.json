@@ -1,11 +1,14 @@
 {
   "name": "react-redux-webpack-balut",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "BOILerplate for React + Redux + Webpack",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "webpack": "./node_modules/.bin/webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kimerran/react-redux-webpack-balut.git"
   },
   "author": "",
   "license": "ISC",
