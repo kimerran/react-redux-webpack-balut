@@ -1,6 +1,8 @@
 # react-redux-webpack-balut
 personal react-redux-webpack boilerplate (thus balut)
 
+Live Demo: https://kimerran.github.io/react-redux-webpack-balut/
+
 # Install
 
 1) Clone this repository
